@@ -28,4 +28,16 @@ Zephyr is a series of language models that are trained to act as helpful assista
 </p>
 <h2>Demo Video</h2>
 <h2>Errors Fixed By The AI </h2>
+<p align="center">
+<img src="Python Code Fixer and Explainer/results/q1.png">
+</p>
+<p align="center">
+<img src="Python Code Fixer and Explainer/results/q2.png">
+</p>
+<p align="center">
+<img src="Python Code Fixer and Explainer/results/q3.png">
+</p>
+<p align="center">
+<img src="Python Code Fixer and Explainer/results/q4.png">
+</p>
 <h2>Conclusion</h2>
