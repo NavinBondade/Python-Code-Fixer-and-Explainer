@@ -8,6 +8,6 @@
 <ul>
   <li>LangChain</li>
   <li>Hugging Face</li>
-  <li>ChainLit</li>
+  <li>Streamlit</li>
 </ul>
 <h2>Methodology</h2>
