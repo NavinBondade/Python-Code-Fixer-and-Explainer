@@ -30,7 +30,7 @@ Zephyr is a series of language models that are trained to act as helpful assista
 <h2>Errors Fixed By The AI </h2>
 <h3>Module Not Found Error</h3>
 <p align="center">
-<img src="Python Code Fixer and Explainer/results/q1.png" width="500" height="400">
+<img src="Python Code Fixer and Explainer/results/q1.png" width="700" height="800">
 </p>
 <h3>Named Error</h3>
 <p align="center">
