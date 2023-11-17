@@ -34,14 +34,14 @@ Zephyr is a series of language models that are trained to act as helpful assista
 </p>
 <h3>Named Error</h3>
 <p align="center">
-<img src="Python Code Fixer and Explainer/results/q2.png">
+<img src="Python Code Fixer and Explainer/results/q2.png"  width="650" height="750">
 </p>
 <h3>Index Out of Range Error</h3>
 <p align="center">
-<img src="Python Code Fixer and Explainer/results/q3.png">
+<img src="Python Code Fixer and Explainer/results/q3.png"  width="650" height="750">
 </p>
 <h3>Attribute Error</h3>
 <p align="center">
-<img src="Python Code Fixer and Explainer/results/q4.png">
+<img src="Python Code Fixer and Explainer/results/q4.png"  width="650" height="750">
 </p>
 <h2>Conclusion</h2>
