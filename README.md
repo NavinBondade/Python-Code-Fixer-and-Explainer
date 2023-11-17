@@ -27,6 +27,11 @@ Considering the error message with respect to the user's code, the CodeLlama mod
 Zephyr is a series of language models that are trained to act as helpful assistants. Zephyr-7B-β is the second model in the series, and is a fine-tuned version of mistralai/Mistral-7B-v0.1 that was trained on on a mix of publicly available, synthetic datasets using Direct Preference Optimization (DPO).
 </p>
 <h2>Demo Video</h2>
+
+
+https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/61308ebf-a372-4e1b-86af-47cf0a849a51
+
+
 <h2>Errors Fixed By The AI </h2>
 <h3>Module Not Found Error:</h3>
 <p align="center">
