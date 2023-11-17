@@ -1,4 +1,4 @@
-# Python-Code-Fixer-and-Explainer
+# Python Code Fixer and Explainer
 <p align="center">
 <img src="https://content.fortune.com/wp-content/uploads/2023/09/FORTUNE-CODE-FINAL-WEB-1.jpg">
 </p>
