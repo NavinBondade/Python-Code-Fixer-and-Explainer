@@ -11,3 +11,6 @@
   <li>Streamlit</li>
 </ul>
 <h2>Methodology</h2>
+<h2>Demo Video</h2>
+<h2>Errors Fixed By The AI </h2>
+<h2>Conclusion</h2>
