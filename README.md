@@ -26,11 +26,6 @@ Considering the error message with respect to the user's code, the CodeLlama mod
 <p>
 Zephyr is a series of language models that are trained to act as helpful assistants. Zephyr-7B-β is the second model in the series, and is a fine-tuned version of mistralai/Mistral-7B-v0.1 that was trained on on a mix of publicly available, synthetic datasets using Direct Preference Optimization (DPO).
 </p>
-<h2>Run The Code</h2>
-```rb
-# path/to/your/file.rb
-class MyClass
-end
 <h2>Demo Video</h2>
 
 
