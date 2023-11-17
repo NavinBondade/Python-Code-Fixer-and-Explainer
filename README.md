@@ -28,19 +28,19 @@ Zephyr is a series of language models that are trained to act as helpful assista
 </p>
 <h2>Demo Video</h2>
 <h2>Errors Fixed By The AI </h2>
-<h3>Module Not Found Error</h3>
+<h3>Module Not Found Error:</h3>
 <p align="center">
 <img src="Python Code Fixer and Explainer/results/q1.png" width="650" height="750">
 </p>
-<h3>Named Error</h3>
+<h3>Named Error:</h3>
 <p align="center">
 <img src="Python Code Fixer and Explainer/results/q2.png"  width="650" height="850">
 </p>
-<h3>Index Out of Range Error</h3>
+<h3>Index Out of Range Error:</h3>
 <p align="center">
 <img src="Python Code Fixer and Explainer/results/q3.png"  width="650" height="750">
 </p>
-<h3>Attribute Error</h3>
+<h3>Attribute Error:</h3>
 <p align="center">
 <img src="Python Code Fixer and Explainer/results/q4.png"  width="650" height="750">
 </p>
