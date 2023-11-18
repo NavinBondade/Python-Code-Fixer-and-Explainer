@@ -42,19 +42,19 @@ https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/
 <h2>Errors Fixed By The AI </h2>
 <h3>Module Not Found Error:</h3>
 <p align="center">
-<img src="Python Code Fixer and Explainer/results/q1.png" width="650" height="750">
+<img src="Python Code Writer, Code Fixer, and Error Explainer/results/q1.png" width="650" height="750">
 </p>
 <h3>Named Error:</h3>
 <p align="center">
-<img src="Python Code Fixer and Explainer/results/q2.png"  width="650" height="850">
+<img src="Python Code Writer, Code Fixer, and Error Explainer/results/q2.png"  width="650" height="850">
 </p>
 <h3>Index Out of Range Error:</h3>
 <p align="center">
-<img src="Python Code Fixer and Explainer/results/q3.png"  width="650" height="750">
+<img src="Python Code Writer, Code Fixer, and Error Explainer/results/q3.png"  width="650" height="750">
 </p>
 <h3>Attribute Error:</h3>
 <p align="center">
-<img src="Python Code Fixer and Explainer/results/q4.png"  width="650" height="750">
+<img src="Python Code Writer, Code Fixer, and Error Explainer/results/q4.png"  width="650" height="750">
 </p>
 <h2>Python Code Written By The AI </h2>
 
