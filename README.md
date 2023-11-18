@@ -43,11 +43,16 @@ https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/
 https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/666cfda5-d200-4afa-a436-84fc73766f8f
 
 <h2>Python Code Written By The AI </h2>
+<h3>Data Science & Machine Learning Questions</h3>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/d1.png">
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/d4.png">
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/d2.png">
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/d3.png">
-
+<h3>General Python Questions</h3>
+<img src="Python Code Writer, Code Fixer, and Error Explainer/results/c3.png">
+<img src="Python Code Writer, Code Fixer, and Error Explainer/results/c4.png">
+<img src="Python Code Writer, Code Fixer, and Error Explainer/results/c6.png">
+<img src="Python Code Writer, Code Fixer, and Error Explainer/results/c1.png">
 
 
 <h2>Errors Fixed By The AI </h2>
