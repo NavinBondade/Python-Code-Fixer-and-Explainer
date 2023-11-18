@@ -63,7 +63,7 @@ https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/c1.png">
 
 
-<h2>Errors Fixed By The AI </h2>
+<h2>Errors Fixed & Explained By The AI </h2>
 <h3>Module Not Found Error:</h3>
 <p align="center">
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/q1.png" width="650" height="750">
