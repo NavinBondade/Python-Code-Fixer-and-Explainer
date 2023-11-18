@@ -43,10 +43,14 @@ https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/
 https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/666cfda5-d200-4afa-a436-84fc73766f8f
 
 <h2>Python Code Written By The AI </h2>
-<h3>Data Science & Machine Learning Questions</h3>
+<h3>Data Science & Machine Learning Questions:</h3>
+<h4>How to train neural network in tensorflow?</h4>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/d1.png">
+<h4>Write an example of linear regression in scikit learn?</h4>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/d4.png">
+<h4>How to convert numpy array into tensor?</h4>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/d2.png">
+<h4>How to split dataset in train and test using scikit learn?</h4>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/d3.png">
 <h3>General Python Questions</h3>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/c3.png">
