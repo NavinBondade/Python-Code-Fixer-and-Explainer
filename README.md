@@ -42,6 +42,11 @@ https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/
 
 https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/666cfda5-d200-4afa-a436-84fc73766f8f
 
+<h2>Python Code Written By The AI </h2>
+![d1](https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/592e8acb-b7aa-4865-a562-5080e8019d7c)
+![d2](https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/f01472b2-e1da-4013-9575-8cd52f5d5dd9)
+![d4](https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/75806145-195b-465c-9864-946b9d9df8e8)
+![d3](https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/23c776c6-e63c-4d2b-8c3b-c19e75ceefe1)
 
 <h2>Errors Fixed By The AI </h2>
 <h3>Module Not Found Error:</h3>
@@ -60,7 +65,6 @@ https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/
 <p align="center">
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/q4.png"  width="650" height="750">
 </p>
-<h2>Python Code Written By The AI </h2>
 
 <h2>Conclusion</h2>
 <p>Here in this project, I have built an AI system that fixes the errors of the user's code using two large language modes, i.e. CodeLlama and Zephyr.</p>
