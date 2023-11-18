@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best_AI_Code_Generators.jpg">
 </p>
-<p>Programming is not an easy task as it involves many types of complexities, because of which we often encounter various errors. Comprehending these errors and fixing the code requires a strong understanding of the code and brilliant debugging skills. The errors are often so subtle and tough to catch that the developer spends hours fixing them. Also, a huge chunk of time goes into searching the solution online at websites like StackOverflow. In short, this is a very hectic and time-consuming task. So, in order to make it easy, I have developed an AI system that not only fixes your Python code with one click but also explains the error and its solutions. 
+<p>Writing functional code is not an easy task as it involves many types of complexities. It requires a strong understanding of the programming language and brilliant debugging skills. Developers have often found either writing very unoptimal code or totally lost in resolving bugs and errors. In order to make it easy, I have developed an AI system that writes Python code as per the provided question. The system is also capable of fixing your Python code with one click and explaining the error and its solutions. 
 </p>
 <h2>Libraries Used</h2>
 <ul>
