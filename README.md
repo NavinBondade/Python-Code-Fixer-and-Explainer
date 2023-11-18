@@ -53,9 +53,13 @@ https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/
 <h4>How to split dataset in train and test using scikit learn?</h4>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/d3.png">
 <h3>General Python Questions</h3>
+<h4>Write a program to print the given number is odd or even.</h4>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/c3.png">
+<h4>Write a program to find a fibonacci of a number.</h4>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/c4.png">
+<h4>Write a program to remove duplicates from a list.</h4>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/c6.png">
+<h4>Write a program to find the second largest number in a list.</h4>
 <img src="Python Code Writer, Code Fixer, and Error Explainer/results/c1.png">
 
 
