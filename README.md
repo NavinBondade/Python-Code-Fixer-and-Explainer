@@ -82,4 +82,4 @@ https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/
 </p>
 
 <h2>Conclusion</h2>
-<p>Here in this project, I have built an AI system that fixes the errors of the user's code using two large language modes, i.e. CodeLlama and Zephyr.</p>
+<p>Here in this project, I have built an AI system that writes Python code as per user's question, fixes the errors of the user's code and also explain the error using two large language modes, i.e. CodeLlama and Zephyr.</p>
