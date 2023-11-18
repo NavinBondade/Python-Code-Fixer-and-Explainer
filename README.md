@@ -33,11 +33,15 @@ Zephyr is a series of language models that are trained to act as helpful assista
 <h3>Python Code Fixer and Error Explaine</h3>
 
 
+https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/300a62ef-1b4b-4630-9879-4f4fb88436be
 
-https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/61308ebf-a372-4e1b-86af-47cf0a849a51
 
 
 <h3>Python Code Writer</h3>
+
+
+https://github.com/NavinBondade/Python-Code-Fixer-and-Explainer/assets/43030152/666cfda5-d200-4afa-a436-84fc73766f8f
+
 
 <h2>Errors Fixed By The AI </h2>
 <h3>Module Not Found Error:</h3>
