@@ -90,14 +90,21 @@ https://github.com/NavinBondade/Python-Code-Writer-Code-Fixer-Error-Explainer-an
 
 <h2>Comments Added By The AI  To Python Code</h2>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment1.png" width="1100">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment1.png"  width="650" height="750">
 </p>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment13.png" width="1100">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment13.png"  width="650" height="750">
 </p>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment2.png" width="1100">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment2.png"  width="650" height="750">
 </p>
+<p align="center">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment4.png"  width="650" height="750">
+</p>
+<p align="center">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment5.png"  width="650" height="750">
+</p>
+
 
 <h2>Conclusion</h2>
 <p>Here in this project, I have built an AI system that writes Python code as per user's question, fixes the errors of the user's code and also explain the error using two large language modes, i.e. CodeLlama and Zephyr.</p>
