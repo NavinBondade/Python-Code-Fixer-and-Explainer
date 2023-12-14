@@ -90,19 +90,19 @@ https://github.com/NavinBondade/Python-Code-Writer-Code-Fixer-Error-Explainer-an
 
 <h2>Comments Added By The AI  To Python Code</h2>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment1.png"  width="650" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment1.png"  width="650" height="950">
 </p>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment13.png"  width="650" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment13.png"  width="650" height="850">
 </p>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment2.png"  width="650" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment2.png"  width="650" height="850">
 </p>
 <p align="center">
 <img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment4.png"  width="650" height="750">
 </p>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment5.png"  width="650" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment5.png"  width="650" height="850">
 </p>
 
 
