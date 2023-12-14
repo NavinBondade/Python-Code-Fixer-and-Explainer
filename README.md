@@ -90,13 +90,13 @@ https://github.com/NavinBondade/Python-Code-Writer-Code-Fixer-Error-Explainer-an
 
 <h2>Comments Added By The AI  To Python Code</h2>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment1.png" width="850" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment1.png" >
 </p>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment13.png" width="850" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment13.png" >
 </p>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment2.png" width="850" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment2.png">
 </p>
 
 <h2>Conclusion</h2>
