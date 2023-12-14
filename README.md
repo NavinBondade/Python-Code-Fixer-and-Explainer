@@ -89,18 +89,23 @@ https://github.com/NavinBondade/Python-Code-Writer-Code-Fixer-Error-Explainer-an
 </p>
 
 <h2>Comments Added By The AI  To Python Code</h2>
+<h3>Python Program to Find Armstrong Number in an Interval</h3>
 <p align="center">
 <img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment1.png"  width="650" height="1000">
 </p>
+<h3>Python Program to Create a Countdown Timer</h3>
 <p align="center">
 <img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment13.png"  width="650" height="850">
 </p>
+<h3>Python Program to Transpose a Matrix</h3>
 <p align="center">
 <img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment2.png"  width="650" height="950">
 </p>
+<h3>Python Program to Reverse a Number</h3>
 <p align="center">
 <img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment4.png"  width="650" height="750">
 </p>
+<h3>Python Program to Find Sum of Array</h3>
 <p align="center">
 <img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment5.png"  width="650" height="850">
 </p>
