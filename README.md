@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best_AI_Code_Generators.jpg">
 </p>
-<p>Writing functional code is not an easy task as it involves many types of complexities. It requires a strong understanding of the programming language and brilliant debugging skills. Developers have often found either writing very unoptimal code or totally lost in resolving bugs and errors. In order to make it easy, I have developed an AI system that writes Python code as per the provided question. The system is also capable of fixing your Python code with one click and explaining the error and its solutions. 
+<p>Writing functional code is not an easy task as it involves many types of complexities. It requires a strong understanding of the programming language and brilliant debugging skills. Developers have often found either writing very unoptimal code or totally lost in resolving bugs and errors. In order to make it easy and less time-consuming, I have developed an AI system that writes Python code as per the user-provided question. The system is also capable of fixing errors in your Python code, explaining the error and its solutions, and commenting out the entire code.
 </p>
 <h2>Libraries Used</h2>
 <ul>
