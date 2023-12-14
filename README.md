@@ -52,40 +52,51 @@ https://github.com/NavinBondade/Python-Code-Writer-Code-Fixer-Error-Explainer-an
 <h2>Python Code Written By The AI </h2>
 <h3>Data Science & Machine Learning Questions:</h3>
 <h4>How to train neural network in tensorflow?</h4>
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/d1.png">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/d1.png">
 <h4>Write an example of linear regression in scikit learn?</h4>
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/d4.png">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/d4.png">
 <h4>How to convert numpy array into tensor?</h4>
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/d2.png">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/d2.png">
 <h4>How to split dataset in train and test using scikit learn?</h4>
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/d3.png">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/d3.png">
 <h3>General Python Questions</h3>
 <h4>Write a program to print the given number is odd or even.</h4>
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/c3.png">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/c3.png">
 <h4>Write a program to find a fibonacci of a number.</h4>
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/c4.png">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/c4.png">
 <h4>Write a program to remove duplicates from a list.</h4>
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/c6.png">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/c6.png">
 <h4>Write a program to find the second largest number in a list.</h4>
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/c1.png">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/c1.png">
 
 
 <h2>Errors Fixed & Explained By The AI </h2>
 <h3>Module Not Found Error:</h3>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/q1.png" width="650" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/q1.png" width="650" height="750">
 </p>
 <h3>Named Error:</h3>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/q2.png"  width="650" height="850">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/q2.png"  width="650" height="850">
 </p>
 <h3>Index Out of Range Error:</h3>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/q3.png"  width="650" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/q3.png"  width="650" height="750">
 </p>
 <h3>Attribute Error:</h3>
 <p align="center">
-<img src="Python Code Writer, Code Fixer, and Error Explainer/results/q4.png"  width="650" height="750">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/q4.png"  width="650" height="750">
+</p>
+
+<h2>Comments Added By The AI  To Python Code</h2>
+<p align="center">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment1.png" width="650" height="750">
+</p>
+<p align="center">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment13.png" width="650" height="750">
+</p>
+<p align="center">
+<img src="Python Code Writer, Code Fixer, Error Explainer and Come Commenter/results/comment2.png" width="650" height="750">
 </p>
 
 <h2>Conclusion</h2>
