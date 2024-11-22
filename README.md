@@ -6,7 +6,7 @@
 </p>
 <h2>Libraries Used</h2>
 <ul>
-  <li>LangChain</li>
+  <li>LangChain</li>    
   <li>Hugging Face</li>
   <li>Streamlit</li>
 </ul>
